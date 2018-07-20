@@ -20,6 +20,7 @@ excel  为上传excel的文件目录
 download_jpg 下载的截图文件保存目录
 
 测试模块方法：
+
 1，单独测试excel截图功能
 运行 python ExportExcelToImage.py 会读取upload中Sample.xls文件，在jpg目录生成截图文件；
 
