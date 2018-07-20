@@ -4,7 +4,7 @@
  本模块实现对excel中图表单元格截图输出为jpeg的图片片文件；
  
  本模块依赖包：
- win32com.client, pythoncom, PIL, flask
+ win32com, pythoncom, PIL, flask
  
  只能在windows和windows server服务器上运行，运行的时候请确保服务器安装office；
  
